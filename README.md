@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=akasumitlamba" alt="Profile views" width="150"/>
 </div>
 
+<div align="center">
+  
 ### Coding Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -66,21 +68,14 @@
   <img src="https://img.shields.io/badge/OS_Installation_&_Configuration-607D8B?style=for-the-badge&logo=linux&logoColor=white" alt="OS Installation & Configuration"/>
 </p>
 
-## 🤖 AI Tools & Productivity Boosters
+### 🤖 AI Tools 
 
-### 💻 Code Editors & Assistants  
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="Copilot"/> <img src="https://img.shields.io/badge/Continue-8A2BE2?style=for-the-badge" alt="Continue"/> <img src="https://img.shields.io/badge/Kilo%20Code-FFA500?style=for-the-badge" alt="Kilo Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/> <img src="https://img.shields.io/badge/Windsurf-00BFFF?style=for-the-badge" alt="Windsurf"/> <img src="https://img.shields.io/badge/Zed-EA1E63?style=for-the-badge" alt="Zed"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code"/>
-
-### 🖥️ CLI Tools  
-<img src="https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini CLI"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code CLI"/> <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp CLI"/>
-
-### 🧠 LLMs  
+<img src="https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini CLI"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code CLI"/> <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp CLI"/> 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/LLaMA-795548?style=for-the-badge" alt="LLaMA"/> <img src="https://img.shields.io/badge/Qwen-9C27B0?style=for-the-badge" alt="Qwen"/>
-
-### 🎨 Media Creation Tools  
 <img src="https://img.shields.io/badge/Veo3-00BFFF?style=for-the-badge" alt="Veo 3"/> <img src="https://img.shields.io/badge/Adobe%20Firefly-FF0000?style=for-the-badge&logo=adobe-firefly&logoColor=white" alt="Adobe Firefly"/> <img src="https://img.shields.io/badge/Sora-6A1B9A?style=for-the-badge" alt="Sora"/> <img src="https://img.shields.io/badge/Runway-673AB7?style=for-the-badge&logo=runway&logoColor=white" alt="Runway"/> <img src="https://img.shields.io/badge/Midjourney-0D47A1?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney"/> <img src="https://img.shields.io/badge/DALL·E%203-43A047?style=for-the-badge&logo=dalle&logoColor=white" alt="DALL·E 3"/>
 
-
+</div>
 <div align="center">
   
 ## 🤝 Let's Connect!
