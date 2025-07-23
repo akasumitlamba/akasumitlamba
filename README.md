@@ -27,7 +27,7 @@
 ### Software Testing Skills
 <p>
   <img src="https://img.shields.io/badge/Manual_Testing-0056B3?style=for-the-badge&logo=testing-library&logoColor=white" alt="Manual Testing"/>
-  <img src="https://img.shields.io/badge/Automation_Testing-00A86B?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation Testing"/>
+  <!--  <img src="https://img.shields.io/badge/Automation_Testing-00A86B?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation Testing"/> -->
   <img src="https://img.shields.io/badge/Regression_Testing-FF6F61?style=for-the-badge&logo=mocha&logoColor=white" alt="Regression Testing"/>
   <img src="https://img.shields.io/badge/Functional_Testing-6C5B7B?style=for-the-badge&logo=jest&logoColor=white" alt="Functional Testing"/>
   <img src="https://img.shields.io/badge/Smoke_Testing-F7CAC9?style=for-the-badge&logo=cypress&logoColor=black" alt="Smoke Testing"/>
