@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=radical&show_icons=true&hide_border=true&count_private=true)
+<img width="100" height="250" alt="banana cat rev" src="https://github.com/user-attachments/assets/e5f1c06c-2378-447a-8d78-9dfba5b52372" /> ![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=radical&show_icons=true&hide_border=true&count_private=true) <img  width="100" height="250" alt="WhatsApp Image 2025-07-25 at 18 13 22_9af2afef" src="https://github.com/user-attachments/assets/5522f376-c1dd-40f4-b10c-48412008d7fa" />
 
 ### Coding Languages
 <p>
