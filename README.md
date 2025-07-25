@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![akasumitlamba's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akasumitlamba&theme=vue-dark&hide_border=true) 
+![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
   
 ### Coding Languages
 <p>
@@ -71,7 +71,6 @@
   <img src="https://img.shields.io/badge/OS_Installation_&_Configuration-607D8B?style=for-the-badge&logo=linux&logoColor=white" alt="OS Installation & Configuration"/>
 </p>
 
-![akasumitlamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akasumitlamba&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🤖 AI Tools 
 
