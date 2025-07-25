@@ -11,8 +11,8 @@
 
 <div align="center">
 
-![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
-  
+![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
 ### Coding Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
