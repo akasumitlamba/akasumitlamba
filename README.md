@@ -4,11 +4,14 @@
 </div>
 
 [![An image of @akasumitlamba4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akasumitlamba4)](https://holopin.io/@akasumitlamba4)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akasumitlamba" alt="Profile views" width="150"/>
 </div>
 
 <div align="center">
+
+![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![akasumitlamba's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akasumitlamba&theme=vue-dark&hide_border=true) 
   
 ### Coding Languages
 <p>
@@ -67,6 +70,8 @@
   <img src="https://img.shields.io/badge/Basic_Networking-FF5722?style=for-the-badge&logo=linux&logoColor=white" alt="Basic Networking"/>
   <img src="https://img.shields.io/badge/OS_Installation_&_Configuration-607D8B?style=for-the-badge&logo=linux&logoColor=white" alt="OS Installation & Configuration"/>
 </p>
+
+![akasumitlamba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akasumitlamba&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🤖 AI Tools 
 
