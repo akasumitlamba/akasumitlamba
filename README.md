@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there, I'm Sumit Lamba! 👋</h1>
+  <h1>Hey there, I'm Sumit Kumar Lamba! 👋</h1>
   <p>Passionate about building innovative solutions and constantly exploring new technologies.</p>
 </div>
 
