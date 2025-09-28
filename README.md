@@ -24,8 +24,8 @@
   </div>
 </details>
 
+![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akasumitlamba&theme=rogue)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasumitlamba&custom_title=Sumit%27s%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&hide_border=true" alt="Activity Graph" />
 
 
 ### Coding Languages
