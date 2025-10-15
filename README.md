@@ -21,10 +21,13 @@
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akasumitlamba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasumitlamba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </div>
-</details>
+
 
 ![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akasumitlamba&theme=rogue)
+
+    
+  </div>
+</details>
 
 
 
