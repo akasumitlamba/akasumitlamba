@@ -3,7 +3,6 @@
   <p>Passionate about building innovative solutions and constantly exploring new technologies.</p>
 </div>
 
-
 [![An image of @akasumitlamba4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akasumitlamba4)](https://holopin.io/@akasumitlamba4)
 
 <div align="center">
