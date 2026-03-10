@@ -10,12 +10,12 @@
 </div>
 <div align="center">
 
-<img width="100" height="250" alt="banana cat rev" src="https://github.com/user-attachments/assets/e5f1c06c-2378-447a-8d78-9dfba5b52372" /> ![akasumitlamba's Stats](https://github-readme-stats.vercel.app/api?username=akasumitlamba&theme=radical&show_icons=true&hide_border=true&count_private=true) <img  width="100" height="250" alt="banana cat rev" src="https://github.com/user-attachments/assets/5522f376-c1dd-40f4-b10c-48412008d7fa" />
+<img width="100" height="250" alt="banana cat rev" src="https://github.com/user-attachments/assets/e5f1c06c-2378-447a-8d78-9dfba5b52372" /> !<img src="https://github-readme-streak-stats.herokuapp.com/?user=akasumitlamba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img  width="100" height="250" alt="banana cat rev" src="https://github.com/user-attachments/assets/5522f376-c1dd-40f4-b10c-48412008d7fa" />
 <details>
   <summary>Click to expand</summary>
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akasumitlamba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasumitlamba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 
