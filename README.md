@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Manual_Testing-0056B3?style=for-the-badge&logo=testing-library&logoColor=white" alt="Manual Testing"/>
   <!--  <img src="https://img.shields.io/badge/Automation_Testing-00A86B?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation Testing"/> -->
   <img src="https://img.shields.io/badge/Regression_Testing-FF6F61?style=for-the-badge&logo=mocha&logoColor=white" alt="Regression Testing"/>
+  <img src="https://img.shields.io/badge/Python_Playwright-3776AB?style=for-the-badge&logo=playwright&logoColor=white" alt="Python Playwright"/>
   <img src="https://img.shields.io/badge/Functional_Testing-6C5B7B?style=for-the-badge&logo=jest&logoColor=white" alt="Functional Testing"/>
   <img src="https://img.shields.io/badge/Smoke_Testing-F7CAC9?style=for-the-badge&logo=cypress&logoColor=black" alt="Smoke Testing"/>
   <img src="https://img.shields.io/badge/Test_Case_Design-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white" alt="Test Case Design"/>
@@ -55,13 +56,16 @@
 
 ### Tools Known and Used
 <p>
+  <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller"/>
+  <img src="https://img.shields.io/badge/Inno_Setup-00457C?style=for-the-badge&logo=windows&logoColor=white" alt="Inno Setup"/>
   <img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium WebDriver"/>
   <img src="https://img.shields.io/badge/TestNG-CC0000?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<!--   <img src="https://img.shields.io/badge/GitHub_Actions-267B94?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/> -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-267B94?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 <!--   <img src="https://img.shields.io/badge/TestRail-354366?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail"/> -->
   <img src="https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge&logo=bugzilla&logoColor=white" alt="Bugzilla"/>
@@ -87,7 +91,7 @@
 
 
 ### 🤖 AI Tools 
-
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="Copilot"/> <img src="https://img.shields.io/badge/Continue-8A2BE2?style=for-the-badge" alt="Continue"/> <img src="https://img.shields.io/badge/Kilo%20Code-FFA500?style=for-the-badge" alt="Kilo Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/> <img src="https://img.shields.io/badge/Windsurf-00BFFF?style=for-the-badge" alt="Windsurf"/> <img src="https://img.shields.io/badge/Zed-EA1E63?style=for-the-badge" alt="Zed"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code"/>
 <img src="https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini CLI"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code CLI"/> <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp CLI"/> 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/LLaMA-795548?style=for-the-badge" alt="LLaMA"/> <img src="https://img.shields.io/badge/Qwen-9C27B0?style=for-the-badge" alt="Qwen"/>
