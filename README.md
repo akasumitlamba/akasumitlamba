@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Sumit Kumar Lamba! 👋</h1>
-  <p>Passionate about building innovative solutions and constantly exploring new technologies.</p>
+  <p>Passionate about building innovative solutions and constantly exploring new technologies</p>
 </div>
 
 [![An image of @akasumitlamba4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akasumitlamba4)](https://holopin.io/@akasumitlamba4)
