@@ -14,14 +14,14 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akasumitlamba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<details>
+<!-- <details>
   <summary>Click to expand</summary>
   <br />
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasumitlamba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasumitlamba&theme=rogue" alt="Sumit's GitHub activity graph" width="100%" />
   </div>
-</details>
+</details> -->
 
 </div>
 
