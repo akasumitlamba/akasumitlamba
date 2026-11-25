@@ -1,8 +1,19 @@
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=akasumitlamba&theme=neon&role=Quality%20engineer%20-%20SDET&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Sumit Kumar profile banner" />
+
+<!-- <br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&;Building%20with%20Python%20%C2%B7%20Kotlin%20%C2%B7%20Rust;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/> -->
+
+<!-- </div>
 
 <div align="center">
   <h1>Hey there, I'm Sumit Kumar Lamba! 👋</h1>
   <p>Passionate about building innovative solutions and constantly exploring new technologies.</p>
-</div>
+</div> -->
 
 [![Holopin Badges](https://holopin.me/akasumitlamba4)](https://holopin.io/@akasumitlamba4)
 
@@ -13,6 +24,8 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akasumitlamba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+
 
 <!-- <details>
   <summary>Click to expand</summary>
