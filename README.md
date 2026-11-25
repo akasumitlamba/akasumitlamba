@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=akasumitlamba&theme=neon&role=Quality%20engineer%20-%20SDET&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Sumit Kumar profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=akasumitlamba&theme=neon&role=Quality%20Engineer%20-%20SDET&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Sumit Kumar profile banner" />
 
 <!-- <br/>
 
